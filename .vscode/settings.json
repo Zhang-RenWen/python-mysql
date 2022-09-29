@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false, //存檔自動排版：啟用
+  "editor.codeActionsOnSave": {
+    //存檔排版按參照模組選項：全部
+    "source.fixAll": false
+  }
+}
